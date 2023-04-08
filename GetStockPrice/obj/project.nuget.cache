@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jHZOGReirspO/KS6SpD9WXO+9rtojc6PKGM6RcnDcCI1aMSGQa0Pb153ZVWPvAPp7G+BMAm5Gs1Zd/TzI2D4sw==",
+  "success": true,
+  "projectFilePath": "D:\\Manabu MyDocuments\\OneDrive\\Source\\200_GitHub\\124_株価取得\\GetStockPrice\\GetTStockPrice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manaf\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
